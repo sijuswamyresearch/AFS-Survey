@@ -10,7 +10,7 @@ In this study, for phase 2, a small dataset of blurry, blocked and low resolutio
 
 In phase 3, three medical image datasets are used for the detailed analysis. Link to these datasets are given below:
 
-1. The IQ-OTH/NCCD lung cancer dataset, Mendeley Data: <https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset>
+1. The IQ-OTH/NCCD lung cancer dataset, Mendeley Data: [https://dx.doi.org/10.21227/q2vt-tf46](https://data.mendeley.com/datasets/bhmdr45bh2/4)
 2. Dataset of Breast mammography images with Masses, Mendeley Data, V1, [https://doi.org/10.1016/j.dib.2020.105928](http://dx.doi.org/10.17632/x7bvzv6cvr.1)
-3. Brain MRI ND5 dataset [https://dx.doi.org/10.21227/q2vt-tf46](https://data.mendeley.com/datasets/bhmdr45bh2/4)
+3. Brain MRI ND5 dataset [https://data.mendeley.com/datasets/bhmdr45bh2/4](https://dx.doi.org/10.21227/q2vt-tf46)
 
