@@ -12,5 +12,5 @@ In phase 3, three medical image datasets are used for the detailed analysis. Lin
 
 1. The IQ-OTH/NCCD lung cancer dataset, Mendeley Data: [https://dx.doi.org/10.21227/q2vt-tf46](https://data.mendeley.com/datasets/bhmdr45bh2/4)
 2. Dataset of Breast mammography images with Masses, Mendeley Data, V1, [https://doi.org/10.1016/j.dib.2020.105928](http://dx.doi.org/10.17632/x7bvzv6cvr.1)
-3. Brain MRI ND5 dataset [https://data.mendeley.com/datasets/bhmdr45bh2/4](https://dx.doi.org/10.21227/q2vt-tf46)
+3. Brain MRI ND5 dataset [https://ieee-dataport.org/documents/brain-mri-nd-5-dataset](https://dx.doi.org/10.21227/q2vt-tf46)
 
